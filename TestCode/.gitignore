@@ -1,0 +1,11 @@
+# Each line specifies a pattern
+#
+# If any file or folder in the repo matches a pattern
+# it will be ignored
+#
+#
+bin
+obj
+
+# You are allowed to do file types using the wildcard *
+# Example: *.txt
