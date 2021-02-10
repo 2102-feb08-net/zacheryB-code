@@ -1,0 +1,11 @@
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\bin\Debug\netcoreapp3.1\RPC.exe
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\bin\Debug\netcoreapp3.1\RPC.deps.json
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\bin\Debug\netcoreapp3.1\RPC.runtimeconfig.json
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\bin\Debug\netcoreapp3.1\RPC.runtimeconfig.dev.json
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\bin\Debug\netcoreapp3.1\RPC.dll
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\bin\Debug\netcoreapp3.1\RPC.pdb
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\obj\Debug\netcoreapp3.1\RPC.csprojAssemblyReference.cache
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\obj\Debug\netcoreapp3.1\RPC.AssemblyInfoInputs.cache
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\obj\Debug\netcoreapp3.1\RPC.AssemblyInfo.cs
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\obj\Debug\netcoreapp3.1\RPC.dll
+C:\Users\Zachery Brunner\Documents\Revature\zacheryB-code\RPC\obj\Debug\netcoreapp3.1\RPC.pdb
